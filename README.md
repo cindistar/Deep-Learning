@@ -1,2 +1,2 @@
 # Deep Learning
-Deep Learning material
+Deep Learning first steps
